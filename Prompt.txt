@@ -1,0 +1,3 @@
+help my create my custom commands in @.claude/commands/deploy_vercel.md.  
+  I want to deploy my local project to vercel. Once done, give my the url to    
+  see my project on the internet. 
